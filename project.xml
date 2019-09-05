@@ -1,0 +1,8 @@
+<project>
+    <maps>
+        <map name="LhynnBis"/>
+        <map name="TestMap"/>
+        <map name="AnotherTest"/>
+    </maps>
+    <starting_point floor="0" map="LhynnBis" x="13" y="18"/>
+</project>
